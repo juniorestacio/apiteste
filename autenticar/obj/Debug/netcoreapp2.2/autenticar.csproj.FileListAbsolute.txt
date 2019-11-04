@@ -1,0 +1,14 @@
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\bin\Debug\netcoreapp2.2\autenticar.deps.json
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\bin\Debug\netcoreapp2.2\autenticar.runtimeconfig.json
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\bin\Debug\netcoreapp2.2\autenticar.runtimeconfig.dev.json
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\bin\Debug\netcoreapp2.2\autenticar.dll
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\bin\Debug\netcoreapp2.2\autenticar.pdb
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\obj\Debug\netcoreapp2.2\autenticar.csprojAssemblyReference.cache
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\obj\Debug\netcoreapp2.2\autenticar.csproj.CoreCompileInputs.cache
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\obj\Debug\netcoreapp2.2\autenticar.RazorAssemblyInfo.cache
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\obj\Debug\netcoreapp2.2\autenticar.RazorAssemblyInfo.cs
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\obj\Debug\netcoreapp2.2\autenticar.AssemblyInfoInputs.cache
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\obj\Debug\netcoreapp2.2\autenticar.AssemblyInfo.cs
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\obj\Debug\netcoreapp2.2\autenticar.RazorTargetAssemblyInfo.cache
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\obj\Debug\netcoreapp2.2\autenticar.dll
+C:\Users\jose.s.junior\Desktop\testejwt\autenticar\obj\Debug\netcoreapp2.2\autenticar.pdb
